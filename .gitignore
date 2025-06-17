@@ -1,0 +1,46 @@
+# Python virtual environment
+fillr/
+venv/
+env/
+hw2/
+
+# Datasets y archivos sensibles de la empresa
+data/
+test_data/
+tables/
+dataSent/
+
+# Archivos generados
+*.csv
+*.pkl
+test_prediction_results/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.map.ipynb
+*/.ipynb_checkpoints/*
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
